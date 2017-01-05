@@ -1,0 +1,41 @@
+body {
+    background: #cccccc;
+    
+}
+
+
+
+.blue {
+    background: blue;
+    height: 100vh;
+    width: calc(100%/3);
+    float: left;
+    
+}
+
+.green {
+    background: #66ffe1;
+    height: 100vh;
+    width: calc(100%/3);
+    float: left;
+}
+
+.weird {
+    background: #dbff99;
+    height: 80vh;
+    width: calc(100%/3);
+    float: left;
+}
+
+.red {
+    background: red;
+    height: 20vh;
+    float: left;
+    width: calc(100%/3);
+    text-align: center;
+}
+
+.image {
+    padding-top:10vh;
+    color: white;
+}
